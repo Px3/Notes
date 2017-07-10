@@ -1,0 +1,7 @@
+Recover missing space on USB drives. 
+      Open DiskPart
+      Select Disk < N > (listDisk will bring up list of disks. 
+      Clean 
+      Create Partition Primary
+        Done 
+        
